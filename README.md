@@ -59,20 +59,6 @@ It helps users discover destinations, plan trips, manage budgets and generate in
 
 ---
 
-## 📂 Project Structure
-
-```
-bonvoyage-ai/
-│── public/
-│   ├── app.js
-│   ├── styles.css
-│── views/
-│   ├── index.ejs
-│── server.js
-│── README.md
-```
-
-*(Change folders if your structure differs.)*
 
 
 ## ▶️ How to Run Locally
